@@ -1,0 +1,24 @@
+@[g+[[[[[
+  {
+    "name": "Molecule Man","C":{"D":"E","F":"G"},
+    "age": 29,
+    "secretIdentity": "Dan Jukes",//,
+    "powers": ["Radiation resistance",{"level1": {"level2": {"level3": {"level4": {"key1": "value1", "key2": "value2"}}, "key3": "value3"}{
+    "phone_numbers": [
+      "type": "home",
+    "numbe2"
+        },
+      "type": "work",
+            "number": "555-555-1213"
+        }
+    ]
+}, "key4": "value4"}}, "Radiation blast"]
+  },
+  {
+    "name": "Madame Uppercutage": 39
+   ,@context,
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",\x00,
+      "Superhuman reflexes"
+    ]

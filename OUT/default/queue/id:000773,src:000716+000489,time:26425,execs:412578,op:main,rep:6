@@ -1,0 +1,16 @@
+@[g+[[[[[
+  {
+    "name": "Molecule Man","H":["I","J","K"],
+    "age": 29,
+    "secretIdentity": "Dan Jukes",
+    "powers": ["Radiation resistance",true, "Turning tiny", "Radiation blast"]
+  },
+  {
+    "name": "Madame Uppercut","R":null,"S":true,
+    "age": 39,
+    "secretIdentity": "Jane Wilson",
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance","H":["I","J","K"],
+      "Superhuman reflexes"
+    ]

@@ -1,0 +1,12 @@
+@[g+[[[[[
+  {
+    "name": "Molecule Man","":0,"C":{"D":"E","F":"G"}, "age": 29,"H":["I","J","K"],
+    "secretIdentity": "Dan Jukes",//,
+"powers": ["Radiation resistance",{},{"level1": {"level2": {"level3": {"level4": {"key1": "value1","T":false,"U":123, "key2": "value2"}},:"", "key3": "value3"},@id, "key4": "value4"}}, "Turning tiny",@context, "Radiation blast"]
+  }{
+    "name": "Madame Uppercut",,0,
+"age": 3"",,0,
+    "secretIdentity": "Jane Wilson",@context,/**/  "powers": [
+  "Million tonne pmage resistance",\x00,{"":0},
+  "Superhuman reflexes"
+    ]

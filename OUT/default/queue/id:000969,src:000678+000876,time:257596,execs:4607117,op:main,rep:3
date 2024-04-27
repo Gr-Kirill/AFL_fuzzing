@@ -1,0 +1,16 @@
+@[g+[[[[[
+  {
+    "name": "Molecule Man","V":-456,"W":789.0,"V":-456,"W":789.0,"V":-456,"W":789.0,
+    "age": 29,true,
+    "secretIdentity": "Dan Jukes",@id,
+    "powers": ["Radiation resistance","V":-456,"W":789.0, "Turning tiny",,{}, "Radiation blast"]
+  },
+  {
+    "name": "Madame Uppercut","":0,
+    "age": 39,-1.2e+3,false,true,
+    "secretIdentity": "Jane Wilson",,{},
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",:[],{{}},:,
+      "Superhuman reflexes"
+    ]
