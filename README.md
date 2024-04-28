@@ -11,6 +11,8 @@ You need to run 2+ afl-fuzz processes and ensure synchronization between them.
 
 ### Solution:
 
+#### The resulting binary (target) of the project is located in ./build
+
 #### - Start fuzzing using mutation
 * export PYTHONPATH='./src'
 * export AFL_PYTHON_MODULE=main
